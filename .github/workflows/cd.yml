@@ -60,7 +60,7 @@ jobs:
         run: dotnet build Library.slnx --no-restore --configuration Release
 
       - name: Publish
-        run: dotnet publish Library.API\Library.API.csproj --no-build --configuration Release -o ./publish
+        run: dotnet publish Library.API/Library.API.csproj --no-build --configuration Release -o ./publish
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
