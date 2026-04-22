@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Library.API/Library.API.csproj" Id="b295a25c-3109-4b6b-b7c3-468d4b8551ec" />
+  <Project Path="Library.Client/Library.ConsoleClient.csproj" Id="10448e90-6210-40c3-8961-00b311a55b4f" />
+  <Project Path="Library.Common/Library.Common.csproj" Id="54668dfa-3389-4b40-b5d9-eef8dd1495bd" />
+  <Project Path="Library.DataPersistence/Library.DataPersistence.csproj" Id="d3b3ca7c-edf7-4705-a17d-c1e73aef44c3" />
+  <Project Path="Library.Interfaces/Library.Interfaces.csproj" Id="0d37adee-131a-4f90-9ade-2061684be686" />
+  <Project Path="Library.Services/Library.Services.csproj" Id="ba481b83-3c11-423f-b070-ef4e0eeecfe4" />
+  <Project Path="Library.Tests/Library.Tests.csproj" Id="611bb00f-ad5c-4c2e-94c5-24c8e4c4ebe5" />
+</Solution>
